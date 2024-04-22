@@ -12,9 +12,8 @@ This is how to make Docsify Material Navbar will work in your docs
 <link rel="stylesheet" href="//raw.githack.com/LIGMATV/docsify-material-navbar/main/material.css">
 ```
 
-> [!IMPORTANT]
-> Just to be safe, please use your downloaded version.  
-> You can download the material.css [here](https://raw.githack.com/LIGMATV/docsify-material-navbar/main/material.css).
+!> Just to be safe, please use your downloaded version.  
+You can download the material.css [here](https://raw.githack.com/LIGMATV/docsify-material-navbar/main/material.css).
 
 Every ⭐ star is expensive. If you can star this repository, you absolutely rich!
 
