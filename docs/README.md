@@ -9,11 +9,12 @@ This is how to make Docsify Material Navbar will work in your docs
 
 ```index.html
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/LIGMATV/docsify-material-navbar/material.css">
+<link rel="stylesheet" href="//raw.githack.com/LIGMATV/docsify-material-navbar/main/material.css">
 ```
 
-!> Just to be safe, please use your downloaded version.  
-You can download the material.css <a href="https://cdn.jsdelivr.net/gh/LIGMATV/docsify-material-navbar/material.css">here</a>.
+> [!IMPORTANT]
+> Just to be safe, please use your downloaded version.  
+> You can download the material.css [here](https://raw.githack.com/LIGMATV/docsify-material-navbar/main/material.css).
 
 Every ⭐ star is expensive. If you can star this repository, you absolutely rich!
 
